@@ -72,14 +72,6 @@ This project helped me understand that:
 
 ---
 
-## 🚀 Future improvements
-
-* Clean food category column properly
-* Add time-based analysis (orders by time/day)
-* Improve dashboard interactivity
-
----
-
 ## 🙌 Final thought
 
 This project was a great learning experience for me. It gave me a complete idea of how data flows from raw format to insights.
