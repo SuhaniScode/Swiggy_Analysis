@@ -43,7 +43,7 @@ I created this project to understand how food delivery data can be used to extra
 * Cities like **Mumbai and Kolkata** have the highest number of orders
 * **Average price is higher in metro cities**, especially Mumbai
 * A few restaurants contribute a large portion of total orders
-* Demand is clearly not uniform — some cities are much more active
+* Demand is clearly not uniform  some cities are much more active
 * Pricing and demand vary across cities, showing different customer behavior
 
 ---
