@@ -25,7 +25,7 @@ I created this project to understand how food delivery data can be used to extra
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](ibmcognosdashboard.png)
 
 ---
 
